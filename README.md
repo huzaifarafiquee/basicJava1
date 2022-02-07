@@ -1,5 +1,6 @@
 # basicJava1
-Classes and Objects in JAVA
+Classes and Objects in JAVA. Lets learn how to create classes and objects in java using OOP concepts.
+
 Define a class to represent a student. 
 Include the following members: 
 Data Members 
